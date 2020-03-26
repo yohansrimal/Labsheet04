@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="blank" />
+    <string name="btn">Sign Up</string>
+    <string name="nameHint">Name</string>
+    <string name="channel_name">channel</string>
+    <string name="channel_description">new channel</string>
+    <string name="emailHint">Email</string>
+    <string name="telHint">Telephone</string>
+    <string name="passHint">Password</string>
+    <string name="repassHint">Re-Type Password</string>
+</resources>
